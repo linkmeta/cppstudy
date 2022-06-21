@@ -1,0 +1,4 @@
+model:audi
+year:2021
+orginal price:19.80
+new price:18.81
